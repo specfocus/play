@@ -1,3 +1,6 @@
 [submodule "play-station-cs"]
 	path = play-station-cs
 	url = https://github.com/specfocus/play-station-cs.git
+[submodule "play-area-cs"]
+	path = play-area-cs
+	url = https://github.com/specfocus/play-area-cs.git
