@@ -4,3 +4,6 @@
 [submodule "play-area-cs"]
 	path = play-area-cs
 	url = https://github.com/specfocus/play-area-cs.git
+[submodule "node/apps/play-next-routing-example-ts"]
+	path = node/apps/play-next-routing-example-ts
+	url = https://github.com/specfocus/play-next-routing-example-ts.git
